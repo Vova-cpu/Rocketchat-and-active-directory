@@ -1,0 +1,2 @@
+Hello!
+I associated rocketchat with the active directory. I have users created when changing the name (login) in the active directory, only the name (login) in rocketchat changes. You can make sure that when you rename a user in the active directory (that is, when the old agent quits) the new agent will have a new rocketchat, that is, all correspondence and channels of the old agent will be deleted, and a clean Rocket chat will open without correspondence ????
